@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Kvadrato fonas (atskirtas) -->
+  <rect
+    x="64"
+    y="64"
+    width="384"
+    height="384"
+    rx="72"
+    ry="72"
+    fill="#E0DCC7"
+  />
+
+  <!-- m -->
+  <text
+    x="240"
+    y="330"
+    text-anchor="middle"
+    font-size="220"
+    font-family="Inter, Arial, Helvetica, sans-serif"
+    font-weight="700"
+    fill="#000000">
+    m
+  </text>
+
+  <!-- superscript 2 -->
+  <text
+    x="305"
+    y="200"
+    text-anchor="middle"
+    font-size="120"
+    font-family="Inter, Arial, Helvetica, sans-serif"
+    font-weight="700"
+    fill="#000000">
+    2
+  </text>
+</svg>
